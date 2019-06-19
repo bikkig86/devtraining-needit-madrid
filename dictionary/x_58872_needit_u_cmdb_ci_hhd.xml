@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_hardware" label="HHD " max_length="40" name="x_58872_needit_u_cmdb_ci_hhd" sizeclass="1" type="collection">
+        <element label="Holographic Lens Version" max_length="40" name="holographic_lens_version" type="string"/>
+    </element>
+</database>
